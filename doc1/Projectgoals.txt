@@ -1,0 +1,29 @@
+Project: Create a web application for a car insurance company where the user can calculate the insurance based on his input data!
+
+Goals: 
+
+	Calculation of the insurance with Javascript
+	User can input data
+	Based on data the insurance gives you the correct price
+	User can update the inputs
+	Structure of the page with HTML
+	Design with CSS
+	Use multiple formulas based on the country
+
+
+Non-Goals:
+
+	Focus on the layout
+	Calulation function is not updating
+	You can always input data
+	Use one function for insurance
+
+
+Anti-Goals:
+
+	Allow third party to access data
+	Clear input fields when you click "Calculate"
+	Use wrong function for selected country
+	
+
+
