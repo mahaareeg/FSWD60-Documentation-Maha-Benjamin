@@ -1,0 +1,23 @@
+Project: CodeReview 01
+
+Must have:
+
+	Submit your final version of the CodeReview
+	Layout like the example
+	Correcdt placement of images
+	Correct structure of the page
+
+Should have:
+
+	Create other pages
+	Links for other pages
+	
+Could have:
+	
+	Responsiveness of the page
+	Few animations and extra styling
+
+Won't have:
+
+	any unnecessary animations or effects
+	
